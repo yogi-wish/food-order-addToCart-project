@@ -56,7 +56,7 @@ const Header = () => {
               to="/"
               className="text-decoration-none text-light font-weight-bold mx-4 h3"
             >
-              GLUTON CAMP
+              OMELETTO
             </NavLink>
             <Nav className="me-auto">
               <NavLink to="/" className="text-decoration-none text-light mx-2">
